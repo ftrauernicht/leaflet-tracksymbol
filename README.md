@@ -1,5 +1,9 @@
 ## leaflet-tracksymbol
 
+### Originally forked from https://github.com/lethexa/leaflet-tracksymbol which is no longer available. 
+### npm Package can be found at https://www.npmjs.com/package/leaflet-tracksymbol
+
+---
 This is a symbol for leaflet-layers showing tracks with speed, course and heading.
 
 The visualization is chosen by zoomlevel or heading availability.
